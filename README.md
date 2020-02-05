@@ -1,2 +1,2 @@
 # React-Tetris
-Simple Tetris Game using React js
+Simple Tetris Game using React js and Hooks
